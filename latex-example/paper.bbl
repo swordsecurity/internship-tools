@@ -1,0 +1,44 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global}
+    \entry{problem1}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a89933070f68b52c13e84cf80cc7d404}{%
+           family={Swaen},
+           family_i={S\bibinitperiod},
+           given={Bas},
+           given_i={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{a89933070f68b52c13e84cf80cc7d404}
+      \strng{fullhash}{a89933070f68b52c13e84cf80cc7d404}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.scribbr.nl/starten-met-je-scriptie/probleemanalyse/}}
+      \field{note}{[Online; accessed 27-Aug-2018]}
+      \field{title}{Probleemanalyse scriptie}
+      \field{year}{2017}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
